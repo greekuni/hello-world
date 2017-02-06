@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Καλώς ήλθατε στο επίσημο κανάλι του Greek Uni Reloaded.
+# Όλα κυλούν ομαλά και ήρεμα εδώ αλλά καλό είναι να έχετε στο μυαλό σας μερικά πράγματα.
 
-You can use the [editor on GitHub](https://github.com/greekuni/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# 1) Αποφύγετε διακρίσεις και αντιπαραθέσεις μεταξύ σας.
+# 2) Δεν ποστάρουμε ακατάλληλο, ρατσιστικό, διαφημιστικό η προσβλητικό οποιασδήποτε μορφής υλικό.
+# 3) Σεβασμός στο προσωπικό και κυριως στα μέλη της κοινότητας.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/greekuni/hello-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Λίγα λόγια για το Discord αν σου φαίνονται όλα καινούργια.
+# Στην αριστερή στήλη βλέπεις τα Text Channels και Voice Channels.
+# Στο general text channel μπορείς να χαλαρώσεις ή να μοιραστείς πράγματα με το υπόλοιπο community.
+# Στο help_room ποσταρε όποιο πρόβλημα μπορεί να έχεις με το παιχνίδι και θα βρεθεί κάποιος να βοηθήσει.
+# Στα voice channels κάνεις διπλό κλικ πάνω στο όνομα του καναλιού όπου θες να μπεις και καλή διασκέδαση.
